@@ -1,0 +1,14 @@
+{
+  "Books": [],
+  "BooksInLibrary": [],
+  "HistoryBooks": [],
+  "Users": [
+    {
+      "UserID": 1,
+      "UserName": "1",
+      "UserSurname": "1",
+      "UserAdres": "1",
+      "UserBirthDay": "2001-01-01T00:00:00"
+    }
+  ]
+}

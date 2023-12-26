@@ -1,0 +1,36 @@
+C:\Users\sverc\OneDrive\Рабочий стол\Library\Library\bin\Debug\net5.0\Library.exe
+C:\Users\sverc\OneDrive\Рабочий стол\Library\Library\bin\Debug\net5.0\Library.deps.json
+C:\Users\sverc\OneDrive\Рабочий стол\Library\Library\bin\Debug\net5.0\Library.runtimeconfig.json
+C:\Users\sverc\OneDrive\Рабочий стол\Library\Library\bin\Debug\net5.0\Library.runtimeconfig.dev.json
+C:\Users\sverc\OneDrive\Рабочий стол\Library\Library\bin\Debug\net5.0\Library.dll
+C:\Users\sverc\OneDrive\Рабочий стол\Library\Library\bin\Debug\net5.0\ref\Library.dll
+C:\Users\sverc\OneDrive\Рабочий стол\Library\Library\bin\Debug\net5.0\Library.pdb
+C:\Users\sverc\OneDrive\Рабочий стол\Library\Library\obj\Debug\net5.0\Library.csproj.AssemblyReference.cache
+C:\Users\sverc\OneDrive\Рабочий стол\Library\Library\obj\Debug\net5.0\Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sverc\OneDrive\Рабочий стол\Library\Library\obj\Debug\net5.0\Library.AssemblyInfoInputs.cache
+C:\Users\sverc\OneDrive\Рабочий стол\Library\Library\obj\Debug\net5.0\Library.AssemblyInfo.cs
+C:\Users\sverc\OneDrive\Рабочий стол\Library\Library\obj\Debug\net5.0\Library.csproj.CoreCompileInputs.cache
+C:\Users\sverc\OneDrive\Рабочий стол\Library\Library\obj\Debug\net5.0\Library.dll
+C:\Users\sverc\OneDrive\Рабочий стол\Library\Library\obj\Debug\net5.0\ref\Library.dll
+C:\Users\sverc\OneDrive\Рабочий стол\Library\Library\obj\Debug\net5.0\Library.pdb
+C:\Users\sverc\OneDrive\Рабочий стол\Library\Library\obj\Debug\net5.0\Library.genruntimeconfig.cache
+C:\Users\sverc\OneDrive\Рабочий стол\Library\Library\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\sverc\OneDrive\Рабочий стол\Library\Library\obj\Debug\net5.0\Library.csproj.CopyComplete
+R:\the best уроки от лучшего человека\CS\OOP\Library\Library\bin\Debug\net5.0\Library.exe
+R:\the best уроки от лучшего человека\CS\OOP\Library\Library\bin\Debug\net5.0\Library.deps.json
+R:\the best уроки от лучшего человека\CS\OOP\Library\Library\bin\Debug\net5.0\Library.runtimeconfig.json
+R:\the best уроки от лучшего человека\CS\OOP\Library\Library\bin\Debug\net5.0\Library.runtimeconfig.dev.json
+R:\the best уроки от лучшего человека\CS\OOP\Library\Library\bin\Debug\net5.0\Library.dll
+R:\the best уроки от лучшего человека\CS\OOP\Library\Library\bin\Debug\net5.0\Library.pdb
+R:\the best уроки от лучшего человека\CS\OOP\Library\Library\bin\Debug\net5.0\Newtonsoft.Json.dll
+R:\the best уроки от лучшего человека\CS\OOP\Library\Library\obj\Debug\net5.0\Library.csproj.AssemblyReference.cache
+R:\the best уроки от лучшего человека\CS\OOP\Library\Library\obj\Debug\net5.0\Library.GeneratedMSBuildEditorConfig.editorconfig
+R:\the best уроки от лучшего человека\CS\OOP\Library\Library\obj\Debug\net5.0\Library.AssemblyInfoInputs.cache
+R:\the best уроки от лучшего человека\CS\OOP\Library\Library\obj\Debug\net5.0\Library.AssemblyInfo.cs
+R:\the best уроки от лучшего человека\CS\OOP\Library\Library\obj\Debug\net5.0\Library.csproj.CoreCompileInputs.cache
+R:\the best уроки от лучшего человека\CS\OOP\Library\Library\obj\Debug\net5.0\Library.csproj.CopyComplete
+R:\the best уроки от лучшего человека\CS\OOP\Library\Library\obj\Debug\net5.0\Library.dll
+R:\the best уроки от лучшего человека\CS\OOP\Library\Library\obj\Debug\net5.0\refint\Library.dll
+R:\the best уроки от лучшего человека\CS\OOP\Library\Library\obj\Debug\net5.0\Library.pdb
+R:\the best уроки от лучшего человека\CS\OOP\Library\Library\obj\Debug\net5.0\Library.genruntimeconfig.cache
+R:\the best уроки от лучшего человека\CS\OOP\Library\Library\obj\Debug\net5.0\ref\Library.dll
